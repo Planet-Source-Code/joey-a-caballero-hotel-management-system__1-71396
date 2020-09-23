@@ -1,0 +1,13 @@
+for administrator's Access
+=================
+Username : Admin
+Password : Admin
+=================
+
+for Front desk officer's Access
+=================
+Username : Cashier
+Password : Cashier
+=================
+
+Please don't forget to vote...Thank You...
